@@ -2,6 +2,8 @@
 
 ## Feature Overview
 
+Based on "Features Overview" at https://www.weave.works/docs/scope/latest/features/
+
 Browse the current feature set for Scope with links to relevant in-depth topics:
 
 - [Topology Mapping](./100/README.md)
