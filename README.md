@@ -1,5 +1,5 @@
-weaveworks-scope-headstart
-# WeaveWorks Scope - Headstart
+container-management
+# Container Management
 
 Based on "WaeveWorks - Scope" at https://www.weave.works/docs/scope/latest/features/
 
