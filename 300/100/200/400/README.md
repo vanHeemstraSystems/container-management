@@ -70,7 +70,8 @@ containers/app/scope/Dockerfile.dev
 Run docker compose as follows:
 
 ```
-...
+$ cd containers/app
+$ docker-compose --file docker-compose.dev.yml --project-name container-management-dev up --build -d
 ```
 
 Scope needs to be installed onto every machine that you want to monitor. Once launched, Scope doesn’t require any other configuration and it also doesn’t depend on Weave Net.
